@@ -1,0 +1,8 @@
+# Rails Testing Demo
+
+A barebones Rails app that aims to show how to build an app with some simple unit tests.
+
+## Why Test?
+* It helps you from breaking other people's code.
+* It helps you from introducing a bug as you change code. (Regressions!)
+* It can make you think critically about what you're building.
