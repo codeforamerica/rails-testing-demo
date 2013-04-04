@@ -1,5 +1,7 @@
 # Rails Testing Demo
 
+The tests can be run with a simple `$ rake spec`.
+
 Built for a presentation to developers of the Code for America 2013 class.
 
 A barebones Rails app that aims to show how to build an app with some simple unit tests.
