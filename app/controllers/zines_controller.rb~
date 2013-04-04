@@ -1,0 +1,2 @@
+class ZinesController < ApplicationController
+end
