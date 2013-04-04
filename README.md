@@ -4,6 +4,9 @@ Built for a presentation to developers of the Code for America 2013 class.
 
 A barebones Rails app that aims to show how to build an app with some simple unit tests.
 
+* Things
+  * BDD vs. TDD
+
 ## Why Test?
 * It helps you from breaking other people's code.
 * It helps you from introducing a bug as you change code. (Regressions!)
