@@ -1,5 +1,7 @@
 # Rails Testing Demo
 
+[![Build Status](https://travis-ci.org/codeforamerica/rails-testing-demo.png?branch=master)](https://travis-ci.org/codeforamerica/rails-testing-demo)
+
 The tests can be run with a simple `$ rake spec`.
 
 Built for a presentation to developers of the Code for America 2013 class.
