@@ -3,7 +3,7 @@ require 'spec_helper'
 describe ZinesController do
 
   it "should show an index page" do
-    get :indexzzz
+    get :index
     response.should be_success
   end
 
